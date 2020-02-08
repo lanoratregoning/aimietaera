@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aecagaigha.extingstudio.com/sitemap.xml
